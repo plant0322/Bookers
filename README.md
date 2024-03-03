@@ -1,11 +1,10 @@
-# README
+# DMM WEBCAMPコンテンツ【課題2：アプリケーションを作成してみよう：基礎編】
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Gitを使わずに進めてしまったので、復習も兼ねて2回目の作成を行いました。
 
-Things you may want to cover:
 
-* Ruby version
+
+* Ruby version Rails 6.1.7.7
 
 * System dependencies
 
